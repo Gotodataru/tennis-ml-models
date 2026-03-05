@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![CatBoost](https://img.shields.io/badge/CatBoost-1.2-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
 Tennis Match Outcome Prediction (ATP \& WTA)
 
 This repository contains a complete set of machine learning models for predicting tennis match outcomes across four markets: Match Winner, Total Games, Games Handicap, and First Set Winner. Models are trained separately for ATP (men) and WTA (women) using advanced feature engineering and the CatBoost algorithm.
