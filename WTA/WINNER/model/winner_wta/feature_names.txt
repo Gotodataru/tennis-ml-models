@@ -1,0 +1,11 @@
+odd_2
+odd_1
+avg_set_diff_y
+odds_diff
+odds_ratio
+points2
+avg_first_set_margin_surface1
+points_diff
+avg_large_set_wins_surface2
+rank2
+avg_first_set_margin2

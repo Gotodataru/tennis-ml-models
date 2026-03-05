@@ -1,0 +1,11 @@
+odd_2
+odd_1
+avg_set_diff_y
+odds_diff
+odds_ratio
+avg_decider_set_flag_diff
+avg_avg_set_diff1
+avg_games_diff1
+avg_total_games_surface1
+rank1
+avg_games_diff_surface2

@@ -1,0 +1,21 @@
+ATP Models
+Model	Metric	Value	Notes
+Winner	ROC-AUC	0.7513	LogLoss 0.5869, Brier 0.2019
+ECE (cal)	0.0125	Isotonic calibration
+Total Games	MAE	2.006	R² 0.808, RMSE 3.750
+ECE (cal)	0.0125	Isotonic calibration
+Games Diff	MAE	3.217	R² 0.223, RMSE 4.903
+ECE (cal)	0.0117	Isotonic calibration
+First Set	ROC-AUC	0.6988	LogLoss 0.6261, Brier 0.2189
+ECE (raw)	0.0063	No calibration needed
+WTA Models
+Model	Metric	Value	Notes
+Winner	ROC-AUC	0.7130	LogLoss 0.6107, Brier 0.2130
+ECE (cal)	0.0144	Isotonic calibration
+Total Games	MAE	1.566	R² 0.707, RMSE 3.131
+ECE (cal)	0.0144	Isotonic calibration
+Games Diff	MAE	3.450	R² 0.183, RMSE 5.291
+ECE (cal)	0.0206	Isotonic calibration
+First Set	ROC-AUC	0.7130	LogLoss 0.6107, Brier 0.2130
+ECE (raw)	0.0065*	Expected <1% (similar to ATP)
+ECE = Expected Calibration Error; cal = after isotonic calibration; raw = before calibration.

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Data files (не заливаем большие данные)
+*.db
+*.sqlite
+*.csv
+*.xls
+*.xlsx
+data/*.db
+data/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
