@@ -1,3 +1,5 @@
+![Preview](preview.png)
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![CatBoost](https://img.shields.io/badge/CatBoost-1.2-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
