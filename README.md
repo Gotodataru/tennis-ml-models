@@ -31,7 +31,19 @@ A clean, modular codebase for reproducibility
 
 
 
-⚠️ Educational Purpose Only: This project is intended for learning and demonstration. The models show strong validation metrics, but backtesting on 10,000 matches revealed negative ROI for the winner model. Real‑world betting involves significant financial risk; use at your own discretion.
+## Research Conclusion
+
+Models show strong predictive signal: ATP Winner AUC 0.7513,
+WTA Winner AUC 0.7130, ECE <2% after isotonic calibration.
+
+Forward testing (10,000 matches) showed the signal is real but
+insufficient to overcome bookmaker vig at scale. The tennis
+winner market is efficiently priced — statistical edge exists,
+economic edge does not.
+
+Project concluded. The value of this research is in the
+methodology: proper OOS validation, calibration, and knowing
+when *not* to trade.
 
 
 
